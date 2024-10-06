@@ -1,0 +1,8 @@
+<?php
+$temp=15;
+if ($temp<0|| $temp>30){
+    echo "the weather is very bad.<br>";
+}else{
+    echo"the weather is good.<br>";
+}
+?>
